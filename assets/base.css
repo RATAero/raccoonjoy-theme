@@ -3118,4 +3118,5 @@ details-disclosure > details {
 }
 :root {
   --font-heading-family: "presley-slab", georgia, serif  !important;
+  --font-body-family: "new-hero", sans-serif  !important;
 }
