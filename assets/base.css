@@ -3116,3 +3116,6 @@ details-disclosure > details {
 .rte blockquote > * {
   margin: -0.5rem 0 -0.5rem 0;
 }
+:root {
+  --font-heading-family: "presley-slab", georgia, serif  !important;
+}
