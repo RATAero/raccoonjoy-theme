@@ -249,7 +249,7 @@
       {%- render 'cart-drawer' -%}
     {%- endif -%}
 
-<div class="container-layout">
+<div class="container-layout" styles="width: {{ settings.page_width }};">
     {% sections 'header-group' %}
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
@@ -296,5 +296,6 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+  </div>
   </body>
 </html>
