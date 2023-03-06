@@ -209,6 +209,8 @@
         font-family: var(--font-body-family);
         font-style: var(--font-body-style);
         font-weight: var(--font-body-weight);
+        background-image: url("https://cdn.shopify.com/s/files/1/0718/0592/7729/files/bg.png?v=1678137676");
+        background-repeat: repeat;        
       }
 
       @media screen and (min-width: 750px) {
@@ -247,6 +249,7 @@
       {%- render 'cart-drawer' -%}
     {%- endif -%}
 
+<div class="container-layout">
     {% sections 'header-group' %}
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
