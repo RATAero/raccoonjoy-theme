@@ -195,6 +195,8 @@
         box-sizing: border-box;
         font-size: calc(var(--font-body-scale) * 62.5%);
         height: 100%;
+        background-image: url(https://cdn.shopify.com/s/files/1/0718/0592/7729/files/bg.png?v=1678137676);
+        background-repeat: repeat;
       }
 
       body {
@@ -210,7 +212,9 @@
         font-style: var(--font-body-style);
         font-weight: var(--font-body-weight);
       }
-
+      .container-full {
+        max-width:1000px !important;
+      }
       @media screen and (min-width: 750px) {
         body {
           font-size: 1.6rem;
@@ -246,7 +250,7 @@
     {%- if settings.cart_type == 'drawer' -%}
       {%- render 'cart-drawer' -%}
     {%- endif -%}
-
+<div class="container-full">
     {% sections 'header-group' %}
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
@@ -293,5 +297,6 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+  </div>
   </body>
 </html>
