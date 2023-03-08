@@ -17,8 +17,7 @@
   }
 
 #footershape{
-  margin-bottom: -{{ section.settings.margin_top }}px;
-  margin-bottom: -12px;
+  margin-bottom: calc(-12 - {{ section.settings.margin_top }})px;
 }
 
   @media screen and (min-width: 750px) {
