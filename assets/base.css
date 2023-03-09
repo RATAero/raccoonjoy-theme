@@ -1358,7 +1358,7 @@ button.shopify-payment-button__button--unbranded {
   font-size: 1.5rem;
   text-decoration: none;
   color: rgb(var(--color-button-text));
-  transition: box-shadow var(--duration-short) ease;
+  transition: var(--duration-short) ease;
   -webkit-appearance: none;
   appearance: none;
   background-color: rgba(var(--color-button), var(--alpha-button-background));
@@ -1406,6 +1406,15 @@ button.shopify-payment-button__button--unbranded {
   transform: translate(4px, 4px);
   box-shadow: 4px 4px 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text), var(--border-opacity)),
     0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button), var(--alpha-button-background));
+}
+
+.button:not([disabled]):hover,
+.shopify-challenge__button:hover,
+.customer button:hover,
+.shopify-payment-button__button--unbranded:hover{
+  transform: translate(-2px, -2px);
+  background-color: var(--ghoul-joy);
+  color: #fff;
 }
 
 .button--secondary:after {
@@ -3120,4 +3129,11 @@ details-disclosure > details {
 :root {
   --font-heading-family: "presley-slab", georgia, serif  !important;
   --font-body-family: "new-hero", sans-serif  !important;
+    --ghoul-joy: #A6AD07;
+    --castle-jeans: #216869;
+    --berry-cool: #5C5D8D;
+    --mysterious-sky: #9D5B7C;
+    --rose-moss: #A41623;
+    --goofire: #E4572E;
+  
 }
