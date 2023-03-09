@@ -317,6 +317,33 @@
   .footer__localization h2 {
     margin: 1rem 0 0;
   }
+  #ftlogo svg{
+    width: 150px;
+    bottom: 60px;
+    right: 225px;
+    position: absolute;
+    transition: animation 150ms ease-in-out;
+}
+#ftlogo svg path:hover{
+    animation: 3s infinite colorfade;
+}
+    @keyframes colorfade {
+        0%{
+            fill:#fff8e7
+        }
+        25%{
+            fill: #d9bba0;
+        }
+        50%{
+            fill: #ff697c;
+        }
+        75%{
+            fill: #46587f;
+        }
+        100% {
+            fill:#ffffff;
+        }
+}
 }
 
 @media screen and (max-width: 989px) {
