@@ -79,6 +79,13 @@
   --color-button: var(--color-background);
   --alpha-button-background: 1;
 }
+.button--secondary:hover {
+  --color-button: var(--color-base-outline-button-labels);
+  --color-button-text: var(--color-base-outline-button-labels);
+  --color-button: var(--ghoul-joy);
+  color: #fff;
+  --alpha-button-background: 1;
+}
 
 .color-background-2 .button--secondary,
 .color-accent-1 .button--secondary,
