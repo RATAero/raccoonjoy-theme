@@ -1404,8 +1404,9 @@ button.shopify-payment-button__button--unbranded {
 .shopify-payment-button__button--unbranded:hover::after {
 
   transform: translate(4px, 4px);
-  color: var(--ghoul-joy);
+  background-color: var(--ghoul-joy);
   border: var(--ghoul-joy);
+  z-index: 0;
   box-shadow: 4px 4px 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text), var(--border-opacity)),
     0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button), var(--alpha-button-background));
 }
@@ -1417,6 +1418,7 @@ button.shopify-payment-button__button--unbranded {
   transform: translate(-2px, -2px);
   background-color: var(--ghoul-joy);
   color: #fff;
+  z-index: 1;
 }
 
 .button--secondary:after {
