@@ -1402,11 +1402,8 @@ button.shopify-payment-button__button--unbranded {
 .shopify-challenge__button:hover::after,
 .customer button:hover::after,
 .shopify-payment-button__button--unbranded:hover::after {
-
+  --border-offset: 1.3px;
   transform: translate(4px, 4px);
-  background-color: var(--ghoul-joy);
-  border: var(--ghoul-joy);
-  z-index: 0;
   box-shadow: 4px 4px 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text), var(--border-opacity)),
     0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button), var(--alpha-button-background));
 }
@@ -1416,9 +1413,7 @@ button.shopify-payment-button__button--unbranded {
 .customer button:hover,
 .shopify-payment-button__button--unbranded:hover{
   transform: translate(-2px, -2px);
-  background-color: var(--ghoul-joy);
-  color: #fff;
-  z-index: 1;
+  background-color: --ghoul;
 }
 
 .button--secondary:after {
