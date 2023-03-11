@@ -6,9 +6,150 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "fb4697d2-3af5-443a-baa7-df3d6fd1a5da": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18253020430641__fb4697d2-3af5-443a-baa7-df3d6fd1a5da-1678569492630218f9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "what is raccoon joy dot org",
+            "heading_size": "h1"
+          }
+        },
+        "template--18253020430641__fb4697d2-3af5-443a-baa7-df3d6fd1a5da-1678569492630218f9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>raccoon joy! is a collaborative art apparel store created by RAT Aerospace Technologies.<\/p><p>We work to create goofy & fun products that are both high quality and sustainable. Every product sold is handmade, using only ethically sourced materials and all made with love.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18253020430641__fb4697d2-3af5-443a-baa7-df3d6fd1a5da-1678569492630218f9-0",
+        "template--18253020430641__fb4697d2-3af5-443a-baa7-df3d6fd1a5da-1678569492630218f9-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "4f43a07f-b57a-45bf-a34c-6a940dc562a2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/katie.gif",
+            "title": "<strong>Katie Lee <\/strong><em><strong>she\/they<\/strong><\/em>",
+            "text": "<p>Illustrator, creative, and <\/p>",
+            "link_label": "@gothkermit",
+            "link": "https:\/\/twitter.com\/gothkermit"
+          }
+        },
+        "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sully.gif",
+            "title": "<strong>Sully Kosmas<\/strong> <em>they\/them<\/em>",
+            "text": "<p>Design, operations, and party planner.<\/p><p>Sully is a full-time graphic designer & marketer, as well as a founding member of RAT Aerospace.<\/p>",
+            "link_label": "@kosmassullyf",
+            "link": "https:\/\/twitter.com\/kosmassullyf"
+          }
+        },
+        "cb720414-c327-4f57-84ce-adcef23a26bf": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Marcus Chandler <\/strong><em><strong>he\/him<\/strong><\/em>",
+            "text": "<p>Customer Service & <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f508c1b9-033f-4b23-8f66-22062ccc0953": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pepe.gif",
+            "title": "<strong>the unpaid interns<\/strong>",
+            "text": "<p>literally they just get in our way. i don't know why we haven't fired them yet. they're just too damn cute i guess<\/p>",
+            "link_label": "@raccoonjoy1",
+            "link": "https:\/\/twitter.com\/raccoonjoy1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-0",
+        "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-1",
+        "cb720414-c327-4f57-84ce-adcef23a26bf",
+        "f508c1b9-033f-4b23-8f66-22062ccc0953"
+      ],
+      "settings": {
+        "title": "who are the joyful raccoons.",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "80659c29-af23-47ed-ad1b-7f161ca3b710": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18253020430641__80659c29-af23-47ed-ad1b-7f161ca3b710-1678569492630218f9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is RAT Aerospace Technologies?",
+            "heading_size": "h1"
+          }
+        },
+        "template--18253020430641__80659c29-af23-47ed-ad1b-7f161ca3b710-1678569492630218f9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>RAT Aerospace Technologies is an artist collective built around the common idea of 'accessibility'. Everything we create is intended for the viewer — not the other way around.<\/p>"
+          }
+        },
+        "template--18253020430641__80659c29-af23-47ed-ad1b-7f161ca3b710-1678569492630218f9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "visit rataero.space",
+            "button_link": "https:\/\/rataerospace.com",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18253020430641__80659c29-af23-47ed-ad1b-7f161ca3b710-1678569492630218f9-0",
+        "template--18253020430641__80659c29-af23-47ed-ad1b-7f161ca3b710-1678569492630218f9-1",
+        "template--18253020430641__80659c29-af23-47ed-ad1b-7f161ca3b710-1678569492630218f9-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "right",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "fb4697d2-3af5-443a-baa7-df3d6fd1a5da",
+    "4f43a07f-b57a-45bf-a34c-6a940dc562a2",
+    "80659c29-af23-47ed-ad1b-7f161ca3b710"
   ]
 }

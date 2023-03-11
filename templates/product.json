@@ -70,8 +70,8 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
+            "heading": "Size Guide",
+            "icon": "shirt",
             "content": "",
             "page": ""
           }
@@ -163,18 +163,18 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "what's a raccoon joy?",
+            "text": "<p>raccoon joy! is a collaborative store by artists, for everyone. we make works that make us happy — without compromising quality or appearance.<\/p>",
+            "link_label": "keep it goofy with us.",
             "link": ""
           }
         },
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "you'll love it. guaranteed.",
+            "text": "<p>Too small? Don't like the color? No worries. Let us know and we'll do our best to find you something even better — plus, exchanged items are cleaned, inspected, and re-loved by someone else.<\/p>",
+            "link_label": "learn about our commitment to sustainability",
             "link": ""
           }
         }
