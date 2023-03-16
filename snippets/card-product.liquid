@@ -119,8 +119,9 @@
           <div class="card__badge {{ settings.badge_position }}">
             {%- if card_product.available == false -%}
               <div class="badge badge--bottom-left">
+                <span style="position:relative; top: 15px;">{{- 'products.product.sold_out' | t -}} </span>
                 <svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30"><g id="Layer_1-2"><path d="M32.97,3.77c-10.04,.61-24.87-3.46-29.82,.5-4.95,3.96-3.4,19.3,.12,23.24,3.52,3.94,11.16,.11,21,.43,9.84,.32,30.44,3.31,38.05,1.49,7.62-1.82,7.48-7.59,7.66-12.4,.17-4.81-.44-14.23-6.61-16.44-6.17-2.21-20.36,2.57-30.4,3.19S8.1,.31,3.15,4.26"/></g></svg>
-                <span style="position:relative; top: -15px;">{{- 'products.product.sold_out' | t -}} </span>
+                
               </div>
             {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%}
               <span
