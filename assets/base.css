@@ -274,7 +274,7 @@ html.no-js .no-js-hidden {
   }
 
   .page-width--narrow {
-    padding: 0 9rem;
+    padding: 0 {{ section.settings.padding_top }};
   }
 
   .page-width-desktop {
