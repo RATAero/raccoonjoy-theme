@@ -13,14 +13,14 @@
         "template--18253020430641__fb4697d2-3af5-443a-baa7-df3d6fd1a5da-1678569492630218f9-0": {
           "type": "heading",
           "settings": {
-            "heading": "what is raccoon joy dot org",
+            "heading": "we're all on this planet together man",
             "heading_size": "h1"
           }
         },
         "template--18253020430641__fb4697d2-3af5-443a-baa7-df3d6fd1a5da-1678569492630218f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>raccoon joy! is a collaborative art apparel store created by RAT Aerospace Technologies.<\/p><p>We work to create goofy & fun products that are both high quality and sustainable. Every product sold is handmade, using only ethically sourced materials and all made with love.<\/p>"
+            "text": "<p><strong>sustainability is important. full stop.<\/strong><\/p><p>this is not a PR stunt or a marketing tactic or anything, and it shouldn't be. we truly believe that ensuring that the planet has the ability to thrive is the most important thing we can do.<\/p>"
           }
         }
       },
@@ -44,8 +44,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/katie.gif",
-            "title": "<strong>Katie Lee <\/strong><em><strong>she\/they<\/strong><\/em>",
-            "text": "<p>Illustrator, creative, and <\/p>",
+            "title": "<em><strong>reduce, reuse, re-love<\/strong><\/em>",
+            "text": "",
             "link_label": "@gothkermit",
             "link": "https:\/\/twitter.com\/gothkermit"
           }
@@ -68,30 +68,19 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "f508c1b9-033f-4b23-8f66-22062ccc0953": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pepe.gif",
-            "title": "<strong>the unpaid interns<\/strong>",
-            "text": "<p>literally they just get in our way. i don't know why we haven't fired them yet. they're just too damn cute i guess<\/p>",
-            "link_label": "@raccoonjoy1",
-            "link": "https:\/\/twitter.com\/raccoonjoy1"
-          }
         }
       },
       "block_order": [
         "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-0",
         "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-1",
-        "cb720414-c327-4f57-84ce-adcef23a26bf",
-        "f508c1b9-033f-4b23-8f66-22062ccc0953"
+        "cb720414-c327-4f57-84ce-adcef23a26bf"
       ],
       "settings": {
-        "title": "who are the joyful raccoons.",
+        "title": "ok but what are we doing though",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
