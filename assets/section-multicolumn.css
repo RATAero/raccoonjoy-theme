@@ -131,7 +131,7 @@
   .background-none .grid--2-col-tablet .multicolumn-list__item {
     margin-top: 4rem;
   }
-  li > :nth-child(2) {
+  .multicolumn-card:nth-child(2) {
     visibility: hidden;
   }
 }
