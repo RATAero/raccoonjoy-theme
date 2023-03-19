@@ -407,7 +407,8 @@ body,
 }
 
 ::selection {
-  background-color: rgba(var(--color-foreground), 0.2);
+  background-color: var(--ghoul-joy);
+  color: #fff;
 }
 
 .text-body {
