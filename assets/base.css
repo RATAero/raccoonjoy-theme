@@ -407,7 +407,7 @@ body,
 }
 
 ::selection {
-  background-color: var(--ghoul-joy)e6;
+  background-color: var(--ghoul-joy);
   color: #fff;
 }
 
