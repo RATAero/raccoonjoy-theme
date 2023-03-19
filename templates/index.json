@@ -17,7 +17,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/oldladyrocking.gif",
-            "title": "<3 old items (&nbsp;-&nbsp;_&nbsp;-&nbsp;)",
+            "title": "<3 old items (&#8288;-&#8288;_&#8288;-&#8288;)",
             "text": "",
             "link_label": "",
             "link": ""
@@ -27,7 +27,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/wizard.gif",
-            "title": "mystery item??? ಠಿ_ಠ",
+            "title": "mystery item??? ಠಿ&#8288;_&#8288;ಠ",
             "text": "",
             "link_label": "",
             "link": ""
