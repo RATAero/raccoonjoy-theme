@@ -39,6 +39,9 @@
         "template--18207725191473__77e3bad2-9ec5-448a-aa10-1a1ce670755d-1679194544bae665c3-1",
         "template--18207725191473__77e3bad2-9ec5-448a-aa10-1a1ce670755d-1679194544bae665c3-2"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -137,7 +140,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "our favorites right now ⤵",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
