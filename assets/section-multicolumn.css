@@ -67,7 +67,8 @@
 
 .multicolumn.background-primary .multicolumn-card {
   background: rgb(var(--color-background)) linear-gradient(rgba(var(--color-foreground), 0.10), rgba(var(--color-foreground), 0.25));
-  transition: ease-in-out var(--duration-short) background;
+  transition: background 150ms ease-in-out 0ms;
+  
 }
 
 .multicolumn.background-primary .multicolumn-card:hover {
