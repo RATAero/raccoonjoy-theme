@@ -66,7 +66,11 @@
 }
 
 .multicolumn.background-primary .multicolumn-card {
-  background: rgb(var(--color-background)) linear-gradient(rgba(var(--color-foreground), 0.04), rgba(var(--color-foreground), 0.04));
+  background: rgb(var(--color-background)) linear-gradient(rgba(var(--color-foreground), 0.10), rgba(var(--color-foreground), 0.25));
+}
+
+.multicolumn.background-primary .multicolumn-card:hover {
+  background: rgb(var(--color-background)) linear-gradient(rgba(var(--color-foreground), 0.20), rgba(var(--color-foreground), 0.45));
 }
 
 .multicolumn-list h3 {
