@@ -20,7 +20,7 @@
         "template--18253020430641__fb4697d2-3af5-443a-baa7-df3d6fd1a5da-1678569492630218f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>sustainability is important. full stop.<\/strong><\/p><p>this is not a PR stunt or a marketing tactic or anything, and it shouldn't be. we truly believe that ensuring that the planet has the ability to thrive is the most important thing we can do.<\/p>"
+            "text": "<p><strong>sustainability is important. full stop.<\/strong><\/p><p>this is not a PR stunt or marketing tactic, and it shouldn't be. we truly believe that ensuring that the planet has the ability to thrive is the most important thing we can do as humans.<\/p>"
           }
         }
       },
@@ -43,7 +43,7 @@
         "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/relove_icon_12x_b0ecaf25-0d6a-4f28-a6a8-67c2b794b9eb.png",
+            "image": "shopify:\/\/shop_images\/relove2x.png",
             "title": "<em><strong>reduce, reuse, re-love!<\/strong><\/em>",
             "text": "<p>don't like your shirt? not the right size? when you send it back to us, we don't just throw them away — they're inspected, cleaned, and put on our <em>re-love!<\/em> list.<\/p>",
             "link_label": "see what's on sale",
@@ -53,19 +53,19 @@
         "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sully.gif",
-            "title": "<strong>Sully Kosmas<\/strong> <em>they\/them<\/em>",
-            "text": "<p>Design, operations, and party planner.<\/p><p>Sully is a full-time graphic designer & marketer, as well as a founding member of RAT Aerospace.<\/p>",
-            "link_label": "@kosmassullyf",
+            "image": "shopify:\/\/shop_images\/planet2x.png",
+            "title": "<em>reducing carbon use.<\/em>",
+            "text": "<p>by using compostable, reusable packaging; partnering with Shopify Planet; and 'batch shipping', we're reducing the amount of pollution from each order.<\/p>",
+            "link_label": "learn about Planet",
             "link": "https:\/\/twitter.com\/kosmassullyf"
           }
         },
         "cb720414-c327-4f57-84ce-adcef23a26bf": {
           "type": "column",
           "settings": {
-            "title": "<strong>Marcus Chandler <\/strong><em><strong>he\/him<\/strong><\/em>",
-            "text": "<p>Customer Service & <\/p>",
-            "link_label": "",
+            "title": "<em><strong>placeholder<\/strong><\/em>",
+            "text": "<p>xxx<\/p>",
+            "link_label": "buton <3",
             "link": ""
           }
         }
@@ -75,8 +75,11 @@
         "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-1",
         "cb720414-c327-4f57-84ce-adcef23a26bf"
       ],
+      "custom_css": [
+        ".multicolumn-card.content-container {background: #75757510;}"
+      ],
       "settings": {
-        "title": "ok but what are we doing though",
+        "title": "ok but what are we doing though.",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -98,7 +101,7 @@
         "template--18253020430641__80659c29-af23-47ed-ad1b-7f161ca3b710-1678569492630218f9-0": {
           "type": "heading",
           "settings": {
-            "heading": "What is RAT Aerospace Technologies?",
+            "heading": "--placeholder--",
             "heading_size": "h1"
           }
         },
