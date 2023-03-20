@@ -532,6 +532,7 @@ noscript .localization-selector.link {
     rgba(var(--color-shadow), var(--media-shadow-opacity));
   margin-bottom: max(calc(2rem + var(--media-shadow-vertical-offset) * var(--media-shadow-visible)), 2rem);
   overflow: hidden !important;
+  border: none !important;
 }
 
 .footer-block__image-wrapper img {
