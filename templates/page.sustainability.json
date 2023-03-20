@@ -75,8 +75,11 @@
         "template--18253020430641__4f43a07f-b57a-45bf-a34c-6a940dc562a2-16785694391ec9ecf3-1",
         "cb720414-c327-4f57-84ce-adcef23a26bf"
       ],
+      "custom_css": [
+        ".multicolumn-card.content-container {background: #75757510;}"
+      ],
       "settings": {
-        "title": "ok but what are we doing though",
+        "title": "ok but what are we doing though.",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
