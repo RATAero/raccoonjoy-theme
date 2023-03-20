@@ -19,18 +19,19 @@
             "menu": "footer"
           }
         },
-        "footer-2": {
-          "type": "text",
+        "78a7b0bb-bc58-48de-9130-b6c092899d39": {
+          "type": "image",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "image": "shopify:\/\/shop_images\/rat_logo_mark_white_rgb.svg",
+            "image_width": 100,
+            "alignment": "right"
           }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "footer-2"
+        "78a7b0bb-bc58-48de-9130-b6c092899d39"
       ],
       "custom_css": [
 
