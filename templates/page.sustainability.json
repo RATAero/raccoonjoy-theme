@@ -54,9 +54,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/sully.gif",
-            "title": "<strong>Sully Kosmas<\/strong> <em>they\/them<\/em>",
-            "text": "<p>Design, operations, and party planner.<\/p><p>Sully is a full-time graphic designer & marketer, as well as a founding member of RAT Aerospace.<\/p>",
-            "link_label": "@kosmassullyf",
+            "title": "<em>reducing carbon use.<\/em>",
+            "text": "<p>by using compostable, reusable packaging; partnering with Shopify Planet; and 'batch shipping', we're reducing the amount of pollution from each order.<\/p>",
+            "link_label": "learn about Planet",
             "link": "https:\/\/twitter.com\/kosmassullyf"
           }
         },
