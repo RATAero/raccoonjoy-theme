@@ -3126,6 +3126,9 @@ details-disclosure > details {
 .rte blockquote > * {
   margin: -0.5rem 0 -0.5rem 0;
 }
+.multicolumn-card.content-container {
+  background: #75757510;
+}
 :root {
   --font-heading-family: "presley-slab", georgia, serif  !important;
   --font-body-family: "new-hero", sans-serif  !important;
