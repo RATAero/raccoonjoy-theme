@@ -2,7 +2,7 @@
 <img src="https://github.com/RATAero/raccoonjoy-theme/blob/5d481b2f0f8b56dbc3be64bc50632a872ca29a8d/assets/raccoon-joy!-logo-mark-ghoul-joy-rgb.svg" alt="logo" width="100"/>
 
 
-<h3> note: this project is on an indefinite hold.</h3>
+### note: this project is on an indefinite hold.
 
 
 _raccoon joy!_ was a concept for an online store focusing on dye-sublimated print apparel, accessories, and trinkets.
